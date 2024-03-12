@@ -1,0 +1,2 @@
+E:\Qtfile\OPCClient\OPC_V1.2\debug\OPCClient.exe
+E:\Qtfile\OPCClient\OPC_V1.3\debug\OPCClient.exe
